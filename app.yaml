@@ -55,4 +55,4 @@ libraries:
   version: latest
 
 env_variables:
-  GOOGLE_APPLICATION_CREDENTIALS: PATH/TO/CLOUD_VISION_KEY.json
+  GOOGLE_APPLICATION_CREDENTIALS: server.json

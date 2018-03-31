@@ -18,7 +18,7 @@
 import os
 import webapp2
 from google.appengine.ext.webapp import template
-
+template.add('lib')
 
 class Main(webapp2.RequestHandler):
 
